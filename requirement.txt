@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+torch
+sentence-transformers
+scikit-learn
+nltk
+PyPDF2
+pytesseract
+Pillow
