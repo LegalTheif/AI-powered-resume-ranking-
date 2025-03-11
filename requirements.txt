@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+torch
+transformers
+sentence-transformers
+PyPDF2
+pdfplumber
+tqdm
+matplotlib
+seaborn
